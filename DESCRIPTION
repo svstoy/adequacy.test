@@ -1,0 +1,11 @@
+Package: adequacy.test
+Type: Package
+Title: Model Adequacy Tests Based on Integrated Conditional Moments
+Version: 0.1
+Date: 2025-01-11
+Author: Stoyan Stoyanov, Hasan Falahgoul
+Maintainer: Hasan Fallahgoul <hfallahgoul@gmail.com>
+Description: One paragraph description of what the package does as one or more full sentences.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp, RcppArmadillo
